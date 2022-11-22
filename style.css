@@ -1,0 +1,17 @@
+.toggle{
+    color: white;
+    background-color: lightcoral;
+}
+
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border: 2px black solid;
+    margin: 10px;
+}
+
+#container{
+    display: flex;
+    text-align: center;
+}
