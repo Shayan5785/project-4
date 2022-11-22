@@ -17,10 +17,6 @@ add.addEventListener('click', () => {
     div.appendChild(textNode )
     div.setAttribute('title', "I'm a box")
 
-        // box.addEventListener('click', ()=>{
-        //     console.log(box);
-        // })
-
 })
 
 container.addEventListener("click", e => {
